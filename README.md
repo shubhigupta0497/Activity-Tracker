@@ -1,4 +1,4 @@
-# Android application (Activity Tracker) to collect User Data
+# Android application (Activity Tracker) to collect user data
 
 Smartphones are an indispensable part of our everyday lives, providing the functionality of media players, digital cameras, web browsers, gaming, navigation and high-speed internet access, all on a single touch. Previous studies have exhibited that misuse of this privilege have a negative impact on people as they tend to neglect their personal well-being and fail to care for their surroundings. Excessive engagement in smartphones leads to poor academic performance, irregular sleeping patterns, decreased satisfaction in life, anxiety, stress and overall mental well-being. 
 
